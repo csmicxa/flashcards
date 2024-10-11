@@ -9,4 +9,13 @@
 
 body{
     background-color:var(--fundo);
+    margin: 0;
+}
+footer{
+    background-color: var(--branco);
+    position: fixed;
+    bottom: 0;
+    color: var(--fundo);
+    width: 100%;
+    text-align: center;
 }
