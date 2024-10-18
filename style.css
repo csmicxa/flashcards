@@ -64,3 +64,11 @@ backface-visibility: hidden;
     transform: rotateY(180deg);
 
 }
+
+.pergunta-cartao, .resposta-cartao{
+    backface-visibility: hidden;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    
+}
