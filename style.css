@@ -39,5 +39,21 @@ footer{
     background-color: var(--cartao-frente);
     text-align: center;
     height: 100%;
+
+}
+
+.conteudo-cartao h3{
+    position: absolute;
+    text-align: left;
+    border: 1px solid var(--destaque);
+    border-radius: 6rem;
+    margin: 0.6 rem;
+padding: 0.6 rem;
+}
+
+.conteudo-cartao p{
+    margin-top: 4rem;
+    padding: 2rem;
+    font-size: 1.4vw;
     
 }
