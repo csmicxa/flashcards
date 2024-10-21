@@ -32,3 +32,9 @@ header a{
     color: var(--fundo);
     text-decoration: none;
 }
+
+#container{
+    display: grid;
+    gap: 2rem;
+    margin: 2rem;
+}
