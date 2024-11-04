@@ -45,6 +45,7 @@ header a{
     border: 1px solid var(--destaque);
     transition: transform 0.2s;
     box-shadow: 2px 2px 20px var(--destaque);
+    cursor: pointer;
 }
 .conteudo-cartao:hover {
     transform: scale(1.02);
